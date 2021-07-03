@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MvcMovie.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace MvcMovie
 {
